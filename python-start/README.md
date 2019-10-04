@@ -1,11 +1,6 @@
-# whitepin-player
-utilization of whitepin service
+# python start
+1. 파이썬 studying....
+2. https://wikidocs.net/70 참조하여 기초 공부
 
-## kind
-1. Airbnb
-2. 당근마켓
-3. ...
-
-## Entity Relation
-(https://www.draw.io/#G1MyCpzvedhOuY6BhHl4L3-2TtleyJCPnu)
-![whitepin_player_ER](./whitepin_player_ER.jpg)
+## future
+1. python을 이용한 크롤링 ( https://webnautes.tistory.com/779 )
