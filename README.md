@@ -4,3 +4,4 @@
 
 ## future
 1. python을 이용한 크롤링 ( https://webnautes.tistory.com/779 )
+2. python을 이용한 TensorFlow
